@@ -1,0 +1,43 @@
+ls - Lista os arquivos e diretórios no diretório atual.
+cd - Navega entre diretórios.
+pwd - Exibe o caminho completo do diretório atual.
+mkdir - Cria um novo diretório.
+rm - Remove arquivos ou diretórios (use -r para diretórios).
+cp - Copia arquivos ou diretórios.
+mv - Move ou renomeia arquivos e diretórios.
+nano - Abre o editor de texto Nano para editar arquivos.
+vim - Abre o editor de texto Vim para editar arquivos.
+touch - Cria arquivos vazios ou atualiza a data de modificação.
+cat - Exibe o conteúdo de arquivos.
+less - Visualiza arquivos grandes página por página.
+df -h - Mostra o uso de disco em um formato legível.
+du -sh - Exibe o tamanho de um arquivo ou diretório.
+top - Mostra os processos em execução em tempo real.
+htop - Exibe os processos em execução de forma interativa (mais amigável que top).
+ps aux - Lista todos os processos em execução.
+kill - Encerra processos com base em seu PID.
+apt update - Atualiza a lista de pacotes disponíveis nos repositórios.
+apt upgrade - Instala atualizações de pacotes disponíveis.
+systemctl - Gerencia serviços do sistema (ex.: iniciar, parar, reiniciar).
+service - Gerencia serviços de maneira semelhante ao systemctl.
+ssh - Conecta-se a outro servidor via SSH.
+scp - Copia arquivos entre servidores via SSH.
+rsync - Sincroniza arquivos e diretórios localmente ou remotamente.
+chmod - Altera permissões de arquivos ou diretórios.
+chown - Altera o proprietário ou grupo de arquivos/diretórios.
+tar - Compacta ou descompacta arquivos em formato .tar.
+gzip - Comprime arquivos em formato .gz.
+unzip - Extrai arquivos de um arquivo .zip.
+find - Procura arquivos ou diretórios com critérios específicos.
+grep - Pesquisa texto em arquivos ou saídas de comandos.
+curl - Realiza requisições HTTP/S e transfere dados de URLs.
+wget - Faz o download de arquivos da web.
+uptime - Mostra o tempo de atividade do sistema.
+reboot - Reinicia o servidor.
+shutdown - Desliga ou reinicia o servidor de forma planejada.
+whoami - Exibe o nome do usuário atualmente logado.
+adduser - Cria um novo usuário no sistema.
+usermod - Modifica informações ou permissões de um usuário.
+passwd - Altera a senha de um usuário.
+iptables - Configura regras de firewall no sistema.
+ufw - Gerencia o firewall de forma simplificada.
